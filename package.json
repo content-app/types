@@ -1,6 +1,6 @@
 {
   "name": "@content-app/types",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Types",
   "main": "types.d.ts",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Jan-Markus Langer",
   "license": "MIT",
   "dependencies": {
+    "contentful": "^9.3.5",
     "contentful-management": "^10.31.1"
   }
 }
